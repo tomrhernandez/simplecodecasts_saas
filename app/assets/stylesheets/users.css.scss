@@ -1,3 +1,9 @@
+/* Users Show Page */
+.user-show-avatar{
+  height: 128px;
+  width: 128px;
+}
+
 .job-title-icon {
   display: inline-block;
   width: 30px;
@@ -26,3 +32,11 @@
   background-color: #5bc0de;
   border-color: #46b8da;
 }
+/* Users Index Styles */
+.user-index-avatar{
+  border-radius: 50%;
+}
+.well.white-bg {
+  background-color: white;
+}
+
